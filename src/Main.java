@@ -8,6 +8,7 @@ public class Main {
            System.out.println("yes");
        }else {
            System.out.println("no");
+           System.out.println("The code is complete");
        }
     }
 }
